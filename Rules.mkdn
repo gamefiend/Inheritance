@@ -8,6 +8,47 @@ Inheritance is a game involved with creating the story of a fictional world.  It
 
 In Inheritance, the players do not control kings or heroes; They tassume the roles of avatars of primal & universal forces.  Players can be avatars of War, Death, Peace, Magic, Technology, and more.  Each avatar has its own goals and abilities it uses to influence the course of civilizations throughout history. The players use the cards in hand to populate the world with discoveries, events, and personas, and to take actions for or against the elements located within that world.
 
+Sharing & Forking
+-----------------
+
+Inheritance is released under the Creative commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.  My hope is that you play the game and use the ruleset and sample cards to make your own variants of the game.  I share it through github ( https://github.com/gamefiend/Inheritance ) in the hopes that you will "fork" the project with your own rules variants and cardsets.  Ultimately, Inheritance is a tool that I want gamers to use to create worlds with their players. With the right cardsets, we can easily make the game useful for many genres and play-styles.
+
+I'll be sharing Inheritance through other venues as well, but as we start up github will be the main source.
+
+
+Gameplay Rules
+==============
+
+A game of Inheritance consists of a Setup phase and play through several eras.
+
+During the setup phase, characters choose which avatars they will use, and also create the initial domains, personas, events and concepts as determined by the selected scenario.
+
+Setup Phase
+-----------
+
+1. Determine starting scenario.
+2. Determine first player.
+3. Each character picks an avatar as allowed by the scenario, starting with first player.  When picking the avatar, take the corresponding ability card.
+4. According to Scenario, each player creates a domain, starting with the first player. If more domains must be created than players, continue rotation.
+5. According to the scenario each player creates a persona, starting with the first player. If more personas must be created than there are players, continue rotation around table until all personas are created.
+6. Each player draws four cards.
+7. Follow the scenario rules for the Starting Era. This will usually include rules for establish different rules or parameters.
+
+Playing in Eras
+---------------
+
+The bulk of play is the detailing and resolution of an era.  An era in Inheritance is a unit of time in which significant and relevant actions and events transpire.  Inheritance does not detail the specific time within an era to allow flexibility.  If you want to tell the recent story of warring kingdoms, you can determine with your group that each era is ten years.  A longer epic might have each era span one hundred years.  The most important aspect is that everyone agree to a unit of time.  Each scenario should include a suggested frame of time to use for eras.
+
+During each era, each player will get a chance to take a turn.  During a turn, a character gets to draw cards, play one card from her hand (creating personas domains, etc. and also resolving events), and uses one avatar ability if eligible to do so. After all players have taken their turns, the era resolves.
+
+
+Each era is broken up into the following stages:
+
+1. Horizon. For each concept or effect in play, roll a die.  On a roll of 6, that concept or effect is removed from play.  After all concepts and effects have been checked, for each concept, the player who created it can choose up to three personas or organizations without concepts already attached to them.  Roll a die for each selected persona or organization.  On a 5-6, that persona/organization has been influenced by that concept and gains the concept as a keyword. For each effect, the player who created the effect resolves the effect as it was detailed in the created effect.
+2. Draw Phase. Each player draws four cards.
+3. Player Turns. Each player takes his turn.  On a players turn, he dooes the following:
+	1. play one card. 
+	2. 
 
 
 
