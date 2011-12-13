@@ -32,7 +32,7 @@ Setup Phase
 4. According to Scenario, each player creates a domain, starting with the first player. If more domains must be created than players, continue rotation.
 5. According to the scenario each player creates a persona, starting with the first player. If more personas must be created than there are players, continue rotation around table until all personas are created.
 6. Each player draws four cards.
-7. Follow the scenario rules for the Starting Era. This will usually include rules for establish different rules or parameters.
+7. Follow the scenario rules for the Starting Era. This will usually include rules for establish different rules 1or parameters.
 
 Playing in Eras
 ---------------
@@ -44,16 +44,31 @@ During each era, each player will get a chance to take a turn.  During a turn, a
 
 Each era is broken up into the following stages:
 
-1. Horizon. For each concept or effect in play, roll a die.  On a roll of 6, that concept or effect is removed from play.  After all concepts and effects have been checked, for each concept, the player who created it can choose up to three personas or organizations without concepts already attached to them.  Roll a die for each selected persona or organization.  On a 5-6, that persona/organization has been influenced by that concept and gains the concept as a keyword. For each effect, the player who created the effect resolves the effect as it was detailed in the created effect.
+1. Horizon. For each concept or effect in play, roll a die.  On a roll of 6, that concept or effect is removed from play.  After all concepts and effects have been checked, each player recieves two dice for each concept he has in play.  He can use these dice to influence created personas when they are created. See "Concepts" for more details. Starting with the first player, each player resolves any effects that are left that he owns.
 2. Draw Phase. Each player draws four cards.
-3. Player Turns. Each player takes his turn.  On a players turn, he dooes the following:
-	1. play one card. 
-	2. 
+3. Player Turns. Each player takes his turn, starting with the first player.  On a players turn, he dooes the following:
+	1. play one card.  Each card has one or more create effects which are resolved first (see "Creating" for more), and then there is an Event, which allows a player to make attacks. Each card must be play associated with a domain.  The domain a card is played in determines where everything is creates takes place. 
+	2. Play one avatar ability if possible. Players earn the ability to use special abilities asa reward for certain events in a game happening.
+4. Ending. At the end of any era except the last era of the game, all personas are removed by default, unless specified otherwise by a card or in the scenario. each player can keep one card in hand, discarding the rest.
+
+A typical game of Inheritance lasts for 3 eras, but can be longer or shorter depending on the scenario. The last era is always considered the current era. The last era is always considered the current era that your game will take place in.  All the personas, organizations, and concepts in play at the end of the game will be part of the active world your characters are in.
+
+Scoring
+-------
+
+Each avatar has a list of actions for which it can score points.  Some cards add additional points to the score.  Avatar abilities are triggered by specific scores, and the end of the game (see "Ending", below) is often influenced by which avatar has the highest score. track your avatar's score with beads or scratch paper.  Score stays persistent for the entire game.
 
 
+Ending the Game.
+----------------
 
+The game ends after the last era.  At this stage, the setting is influenced by the avatar with the highest score.  If the avatar of nature has "won", then the forces of nature are ascendant on the world.  The player controlling that avatar can determine some event or effect resulting from that dominance. A scenario might detail other consequences for an avatar winning the game.
 
+Once the game is over, all you need to do is plug in your favorite system, and have fun playing! The group shhould enjoy playing within a world they helped to build.
 
+TODO: Creating
+TODO: Game Objects (Personas, Concepts, Organizations, Events, Domains, Effects)
+TODO: Attacking
 
 ***
 
